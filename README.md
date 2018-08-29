@@ -9,6 +9,7 @@ selenium
   .get_attribute('value') : html value 값 획득
   .send_keys('') : input 값에 해당 값 push
 string handling
+for i in range(a,b) mean.... [ a <= i < b ]
 pandas : data output using .xlsx
 
 
